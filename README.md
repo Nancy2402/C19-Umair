@@ -1,1 +1,2 @@
-# C19-Umair
+# trex
+Chrome's trex game created using p5.play
